@@ -4,5 +4,5 @@ English | [Русский](README_RU.md) <br>
 <h3 align="center">Java developer </h3>
 Group in [VK](1).<br>
 My [site](2).<br>
-(1): https://vk.com/m_a_product
-(2): http://maprod.ml
+[1]: https://vk.com/m_a_product
+[2]: http://maprod.ml
