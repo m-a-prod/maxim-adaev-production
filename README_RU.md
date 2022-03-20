@@ -4,3 +4,4 @@
 <h3 align="center">Java программист </h3>
 Группа в VK: https://vk.com/m_a_product<br>
 Мой сайт: http://maprod.ml
+![My Stats](https://github-readme-stats.vercel.app/api?username=maxim-adaev-production&show_icons=true&locale=ru&alt=maxim-adaev-production)
