@@ -1,6 +1,15 @@
-[English](README.md) | Русский <br>
-<h1 align="center">Привет всем, я <a href="https://maprod.ml/" target="_blank">Максим</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Java программист </h3>
-Группа в VK: https://vk.com/m_a_product<br>
-Мой сайт: http://maprod.ml
+[English](README.md) | Русский
+
+<div align="center">
+    <h1>
+        Привет всем, я <a href="http://maprod.ml/">Максим</a>
+        <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+    </h1>
+    <h3>
+        Java программист
+    </h3>
+</div>
+
+Группа VK: <https://vk.com/m_a_product>
+
+Мой сайт: <http://maprod.ml>
